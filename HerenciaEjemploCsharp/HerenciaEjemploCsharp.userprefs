@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="HerenciaEjemploCsharp/HerenciaEjemploCsharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HerenciaEjemploCsharp/Program.cs">
+    <Files>
+      <File FileName="HerenciaEjemploCsharp/LugarDeTrabajo.cs" Line="15" Column="4" />
+      <File FileName="HerenciaEjemploCsharp/EntidadPublica.cs" Line="70" Column="3" />
+      <File FileName="HerenciaEjemploCsharp/Ministerio.cs" Line="30" Column="41" />
+      <File FileName="HerenciaEjemploCsharp/Contraloria.cs" Line="43" Column="42" />
+      <File FileName="HerenciaEjemploCsharp/Program.cs" Line="10" Column="83" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
