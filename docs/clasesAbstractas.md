@@ -1,7 +1,7 @@
 # Clases abstractas en java
 
-En java una clase abstracta es una clase "especial" en la cual solo se declaran los metodos que poseeran todas las clases que hereden de la clase abstracta. <br>
-Es decir que la clase abstracta esta pensada para funcionar como una super clase en la que solo se declaran los nombres (y tipos en el caso de funciones) de los metodos que seran heredados y definidos despues en cada una de las subclases que hereden de la superclase abstracta.
+En java una clase abstracta es una clase "especial" en la cual solo se declaran los metodos que poseeran todas las clases que hereden de la clase abstracta. Cada  <br>
+En la clase abstracta solo se declaran los nombres (y tipos en el caso de funciones) de los metodos que seran heredados y definidos despues en cada una de las subclases que hereden de la superclase abstracta.
 
 #### Ejemplo con figuras geometricas 
 
@@ -13,7 +13,7 @@ public abstract class figuraGeometrica {
 ```
 
 Las clases 'Circulo' y 'trianguloRectangulo' heredan de la superclase abstracta 'figuraGeometrica', por lo tanto estas clases deben definir los metodos abstractos heredados, caso contrario se presentaria un error de compilacion. <br>
-Note la palabra reservada '@Override' antes de la definicion de cada metodo abstracto heredado, '@Override' indica que el siguiente metodo es un metodo abstracto heredado y no debe agregarse a otros metodos propios de la subclase. 
+Para definir los metodos heredados de clase abstracta utilzamos la palabra reservada '@Override' esta palabra reservada indica que el siguiente metodo es un metodo abstracto heredado y no debe agregarse a otros metodos propios de la subclase. 
 
 ```java
 public class Circulo extends figuraGeometrica {
@@ -123,8 +123,3 @@ cantidad de objetos Circulo es : 2
 <br>
 <br>
 <br>
-
-elaborado por:<br>
-Anthony Flores Gomez (Antoine)<br>
-LAB-121 <br>
-Informatica UMSA<br>
