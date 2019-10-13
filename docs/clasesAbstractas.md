@@ -1,6 +1,6 @@
 # Clases abstractas en java
 
-En java una clase abstracta es una clase "especial" en la cual solo se declaran los metodos que poseeran todas las clases que hereden de la clase abstracta. Cada  <br>
+En java una clase abstracta es una clase "especial" en la cual solo se declaran los metodos que poseeran todas las clases que hereden de la clase abstracta.<br>
 En la clase abstracta solo se declaran los nombres (y tipos en el caso de funciones) de los metodos que seran heredados y definidos despues en cada una de las subclases que hereden de la superclase abstracta.
 
 #### Ejemplo con figuras geometricas 
